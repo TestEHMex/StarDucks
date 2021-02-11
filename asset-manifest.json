@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/StarDucks/static/css/main.b100e6da.chunk.css",
+    "main.js": "/StarDucks/static/js/main.39afedd8.chunk.js",
+    "main.js.map": "/StarDucks/static/js/main.39afedd8.chunk.js.map",
+    "runtime-main.js": "/StarDucks/static/js/runtime-main.18014260.js",
+    "runtime-main.js.map": "/StarDucks/static/js/runtime-main.18014260.js.map",
+    "static/js/2.8464f10d.chunk.js": "/StarDucks/static/js/2.8464f10d.chunk.js",
+    "static/js/2.8464f10d.chunk.js.map": "/StarDucks/static/js/2.8464f10d.chunk.js.map",
+    "index.html": "/StarDucks/index.html",
+    "precache-manifest.fa2ac8e354720d5117692b28c3acca1e.js": "/StarDucks/precache-manifest.fa2ac8e354720d5117692b28c3acca1e.js",
+    "service-worker.js": "/StarDucks/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/StarDucks/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18014260.js",
+    "static/js/2.8464f10d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.39afedd8.chunk.js"
+  ]
+}
